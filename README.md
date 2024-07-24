@@ -14,6 +14,7 @@ Bem-vindo ao ATENA! Nosso objetivo é proporcionar um ambiente de aprendizado ac
 - pagina de quimica
 - pagina de matematica
   
+![Captura de tela 2024-07-24 162219](https://github.com/user-attachments/assets/11c10926-dca6-4121-8af8-3f224601bbfe)
 
 ## Tecnologias Utilizadas
 
